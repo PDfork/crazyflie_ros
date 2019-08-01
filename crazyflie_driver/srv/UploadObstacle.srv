@@ -1,0 +1,6 @@
+uint8 obstacleId
+uint8 obstacleType
+uint8 obstacleLocation
+uint32 pieceOffset
+float[] pieces
+---
